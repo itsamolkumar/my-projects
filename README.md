@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Anmol Kumar – From < Hello World > to < AI World ></h1>
+<h1 align="center">🚀 Amol Kumar – From < Hello World > to < AI World ></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+%2B+AI+Integration+Specialist;Coder+by+Passion%2C+Creator+by+Vision" alt="Typing SVG" />
@@ -166,6 +166,6 @@ If you like my journey or want to collaborate, feel free to connect!
 <p align="center">
   <a href="https://github.com/itsamolkumar"><img src="https://img.shields.io/badge/GitHub-Amol_Kumar-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:itsamolkumar@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/itsamolkumar/"><img src="https://img.shields.io/badge/LinkedIn-Anmol_Kumar-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/itsamolkumar/"><img src="https://img.shields.io/badge/LinkedIn-Amol_Kumar-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
